@@ -1,7 +1,6 @@
-<h1>Hello, I'm Safiyya. <br/><a href="https://github.com/lanternofsea">Student interested in Cybersecurity</a></h1>
+<h1>Hello, I'm Safiyya.</h1>
 
 <h2>College Coursework:</h2>
-
 - <b>Object Oriented Programming [Spring 2023]:</b>
     - [Name] - (link)
 - <b>Web Design [Spring 2023]:</b>
