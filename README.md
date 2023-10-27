@@ -1,18 +1,43 @@
 <h1>Hello, I'm Safiyya.</h1>
 
-<h2>College Coursework:</h2>
-- <b>Object Oriented Programming [Spring 2023]:</b>
-    - [Name] - (link)
-- <b>Web Design [Spring 2023]:</b>
-    - [Name] - (link)
+<h2>College Coursework</h2>
 
-<h2>Highschool Coursework</h2>
-- <b>AP Computer Science Principles:</b>
-  - [Name] - (link)
+<h3>Object-Oriented Programming [Python]</h3>
 
+- <b>Fundamentals, Fstrings</b>
+  - [HelloWorld](https://github.com/lanternofsea/HelloWorld/)
+  - [HelloVariable](https://github.com/lanternofsea/HelloVariable)
+- <b>if/else</b>
+  - [GradeOnScore](https://github.com/lanternofsea/GradeOnScore)
+- <b>Iteration and Lists/b>
+  - [GuessWhileYouCan](https://github.com/lanternofsea/GuessWhileYouCan)
+  - [ListOfArtists1]()
+  - [ListOfArtists2]()
+
+  
+<h3>Web Design [HTML, CSS, JavaScript</h3>
+
+- <b>Insert</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**lanternofsea/lanternofsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
