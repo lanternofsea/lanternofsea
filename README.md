@@ -9,13 +9,23 @@
   - [HelloVariable](https://github.com/lanternofsea/HelloVariable)
 - <b>if/else</b>
   - [GradeOnScore](https://github.com/lanternofsea/GradeOnScore)
-- <b>Iteration and Lists/b>
+- <b>Iteration and Lists</b>
   - [GuessWhileYouCan](https://github.com/lanternofsea/GuessWhileYouCan)
-  - [ListOfArtists1]()
-  - [ListOfArtists2]()
-
-  
-<h3>Web Design [HTML, CSS, JavaScript</h3>
+  - [ListOfArtists1](https://github.com/lanternofsea/ListOfArtists1)
+  - [ListOfArtists2](https://github.com/lanternofsea/ListOfArtists2)
+- <b>Iteration, Strings, Tuples, and Lists</b>
+  - [Iterables](https://github.com/lanternofsea/Iterables)
+  - [OddNumbersInRange](https://github.com/lanternofsea/OddNumbersInRange)
+- <b>Sets and Dictionaries</b>
+  - [Sets](https://github.com/lanternofsea/Sets/tree/main)
+  - [Dictionaries](https://github.com/lanternofsea/Dictionaries)
+  - [WordFrequencyUsingDictionaries](https://github.com/lanternofsea/WordFrequencies)
+- <b>Functions</b>
+  - [HelloFunction](https://github.com/lanternofsea/HelloFunction)
+  - [EqualStrings](https://github.com/lanternofsea/EqualStrings)
+  - []()
+    
+<h3>Web Design [HTML, CSS, JavaScript]</h3>
 
 - <b>Insert</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
@@ -24,17 +34,11 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Other Link(s)</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SafiyyaAsma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/safiyyaasma
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
