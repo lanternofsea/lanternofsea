@@ -23,8 +23,13 @@
 - <b>Functions</b>
   - [HelloFunction](https://github.com/lanternofsea/HelloFunction)
   - [EqualStrings](https://github.com/lanternofsea/EqualStrings)
-  - []()
-    
+  - [WordFrequencies2](https://github.com/lanternofsea/WordFrequencies2)
+- <b>Python Modules and Libraries</b>
+  - [Datetime](https://github.com/lanternofsea/Datetime)
+- <b>File Handeling</b>
+  - [Mathplotlib](https://github.com/lanternofsea/Matplotlib)
+  - [FileReading](https://github.com/lanternofsea/FileReading)
+  - [FileWriting](https://github.com/lanternofsea/FileWriting)
 <h3>Web Design [HTML, CSS, JavaScript]</h3>
 
 - <b>Insert</b>
