@@ -39,6 +39,9 @@
 <b>Update In Progress...</b>
 
 <h2>Highschool Coursework</h2>
+
+<h3>AP Computer Science Principles</h3>
+
 <b>Update In Progress...</b>
 
 <h2>Other Link(s)</h2>
