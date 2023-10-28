@@ -1,4 +1,5 @@
-<h1>Hello, I'm Safiyya.</h1>
+<h1>Hello, I'm Safiyya.</h1> 
+ I'm a University student interested in Cybersecurity and am aiming to broaden and apply my knowledge into a physical scenario. Below is an overview of my programming coursework. Feel free to take a look!
 
 <h2>College Coursework</h2>
 
@@ -34,11 +35,11 @@
   - [ETLRequests](https://github.com/lanternofsea/ETLRequests)
   - [RedditAPI](https://github.com/lanternofsea/RedditAPI)
 
-- <b>Insert</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+<h3>Web Design [HTML, JavaScript, CSS]</h3>
+<b>Update In Progress...</b>
 
 <h2>Highschool Coursework</h2>
-<b>In Progress</b>
+<b>Update In Progress...</b>
 
 <h2>Other Link(s)</h2>
 
@@ -47,7 +48,7 @@
 [linkedin]: https://linkedin.com/in/safiyyaasma
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lanternofsea/lanternofsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
