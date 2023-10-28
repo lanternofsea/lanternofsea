@@ -30,6 +30,10 @@
   - [Mathplotlib](https://github.com/lanternofsea/Matplotlib)
   - [FileReading](https://github.com/lanternofsea/FileReading)
   - [FileWriting](https://github.com/lanternofsea/FileWriting)
+- <b>ETL</b>
+  - [ETLRequests](https://github.com/lanternofsea/ETLRequests)
+  - [RedditAPI](https://github.com/lanternofsea/RedditAPI)
+  
 <h3>Web Design [HTML, CSS, JavaScript]</h3>
 
 - <b>Insert</b>
