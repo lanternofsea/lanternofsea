@@ -33,15 +33,12 @@
 - <b>ETL</b>
   - [ETLRequests](https://github.com/lanternofsea/ETLRequests)
   - [RedditAPI](https://github.com/lanternofsea/RedditAPI)
-  
-<h3>Web Design [HTML, CSS, JavaScript]</h3>
 
 - <b>Insert</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-
+<h2>Highschool Coursework</h2>
+<b>In Progress</b>
 
 <h2>Other Link(s)</h2>
 
