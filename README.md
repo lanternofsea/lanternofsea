@@ -26,14 +26,14 @@
   - [EqualStrings](https://github.com/lanternofsea/EqualStrings)
   - [WordFrequencies2](https://github.com/lanternofsea/WordFrequencies2)
 - <b>Python Modules and Libraries</b>
-  - [Datetime](https://github.com/lanternofsea/Datetime)
+  - [Datetime - Project](https://github.com/lanternofsea/Datetime)
 - <b>File Handeling</b>
   - [Mathplotlib](https://github.com/lanternofsea/Matplotlib)
   - [FileReading](https://github.com/lanternofsea/FileReading)
   - [FileWriting](https://github.com/lanternofsea/FileWriting)
 - <b>ETL</b>
   - [ETLRequests](https://github.com/lanternofsea/ETLRequests)
-  - [RedditAPI](https://github.com/lanternofsea/RedditAPI)
+  - [RedditAPI - Project](https://github.com/lanternofsea/RedditAPI)
 
 <h3>Web Design [HTML, JavaScript, CSS]</h3>
 <b>Update In Progress...</b>
