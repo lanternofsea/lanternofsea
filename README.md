@@ -1,5 +1,5 @@
 <h1>Hello, I'm Safiyya.</h1> 
- I'm a University student interested in Cybersecurity and am aiming to broaden and apply my knowledge into a physical scenario. Below is an overview of my programming coursework. Feel free to take a look!
+ I am a university student interested in Cybersecurity, aiming to broaden my knowledge and apply it into practical solutions. Below is an overview of my programming coursework. Feel free to take a look!
 
 <h2>College Coursework</h2>
 
