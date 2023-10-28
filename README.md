@@ -40,7 +40,7 @@
 
 <h2>Highschool Coursework</h2>
 
-<h3>AP Computer Science Principles</h3>
+<h3>AP Computer Science Principles [Python]</h3>
 
 <b>Update In Progress...</b>
 
